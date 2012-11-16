@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/www.constellation.tv/!svn/ver/4884/trunk/public/web/js/CTV/Controller
+END
+Events.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/www.constellation.tv/!svn/ver/4884/trunk/public/web/js/CTV/Controller/Events.js
+END
+Login.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/www.constellation.tv/!svn/ver/4884/trunk/public/web/js/CTV/Controller/Login.js
+END
+Host.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/www.constellation.tv/!svn/ver/4884/trunk/public/web/js/CTV/Controller/Host.js
+END
+InviteRecord.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/www.constellation.tv/!svn/ver/4884/trunk/public/web/js/CTV/Controller/InviteRecord.js
+END
+User.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/www.constellation.tv/!svn/ver/4884/trunk/public/web/js/CTV/Controller/User.js
+END
+Profile.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/www.constellation.tv/!svn/ver/4884/trunk/public/web/js/CTV/Controller/Profile.js
+END
+Event.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/www.constellation.tv/!svn/ver/4884/trunk/public/web/js/CTV/Controller/Event.js
+END

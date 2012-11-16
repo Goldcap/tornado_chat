@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/www.constellation.tv/!svn/ver/4884/trunk/public/web/js/CTV/Template
+END
+SignupEmail.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/www.constellation.tv/!svn/ver/4884/trunk/public/web/js/CTV/Template/SignupEmail.html
+END
+LoginEmail.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/www.constellation.tv/!svn/ver/4884/trunk/public/web/js/CTV/Template/LoginEmail.html
+END
+ForgotPassword.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/www.constellation.tv/!svn/ver/4884/trunk/public/web/js/CTV/Template/ForgotPassword.html
+END
+Reminder.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/www.constellation.tv/!svn/ver/4884/trunk/public/web/js/CTV/Template/Reminder.html
+END
+Signup.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/www.constellation.tv/!svn/ver/4884/trunk/public/web/js/CTV/Template/Signup.html
+END
+EventModule.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/www.constellation.tv/!svn/ver/4884/trunk/public/web/js/CTV/Template/EventModule.html
+END
+Login.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/www.constellation.tv/!svn/ver/4884/trunk/public/web/js/CTV/Template/Login.html
+END
+Calendar.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/www.constellation.tv/!svn/ver/4884/trunk/public/web/js/CTV/Template/Calendar.html
+END
